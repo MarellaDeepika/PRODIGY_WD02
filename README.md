@@ -1,4 +1,4 @@
-# PRODIGY_WD_02
+
 
 # PRODIGY_WD_02
 # STOP WATCH WEB APPLICATION
@@ -32,10 +32,10 @@ Feel free to modify the code to add new features or improve the design. Here are
 * Add animations to the timer.
 
 ## Link of the Project
-Link : https://github.com/22FE1A6123/PRODIGY_WD_02
+Link :https://github.com/MarellaDeepika/PRODIGY_WD_02
 
 
-## Screenshot of Website
+## Screenrecording of Website
 
 
 
